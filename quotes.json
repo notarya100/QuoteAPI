@@ -1,0 +1,460 @@
+{
+    "quotes": [
+      {
+        "id": 1,
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "id": 2,
+        "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill"
+      },
+      {
+        "id": 3,
+        "text": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost"
+      },
+      {
+        "id": 4,
+        "text": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt"
+      },
+      {
+        "id": 5,
+        "text": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "id": 6,
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "id": 7,
+        "text": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "id": 8,
+        "text": "It always seems impossible until it's done.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "id": 9,
+        "text": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon"
+      },
+      {
+        "id": 10,
+        "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "author": "Buddha"
+      },
+      {
+        "id": 11,
+        "text": "Strive not to be a success, but rather to be of value.",
+        "author": "Albert Einstein"
+      },
+      {
+        "id": 12,
+        "text": "Life is 10% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll"
+      },
+      {
+        "id": 13,
+        "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 14,
+        "text": "It is during our darkest moments that we must focus to see the light.",
+        "author": "Aristotle"
+      },
+      {
+        "id": 15,
+        "text": "The purpose of our lives is to be happy.",
+        "author": "Dalai Lama"
+      },
+      {
+        "id": 16,
+        "text": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill"
+      },
+      {
+        "id": 17,
+        "text": "Get busy living or get busy dying.",
+        "author": "Stephen King"
+      },
+      {
+        "id": 18,
+        "text": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+        "author": "Brian Tracy"
+      },
+      {
+        "id": 19,
+        "text": "Do what you can, with what you have, where you are.",
+        "author": "Theodore Roosevelt"
+      },
+      {
+        "id": 20,
+        "text": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama"
+      },
+      {
+        "id": 21,
+        "text": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "id": 22,
+        "text": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+        "author": "Christian D. Larson"
+      },
+      {
+        "id": 23,
+        "text": "The only person you are destined to become is the person you decide to be.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 24,
+        "text": "Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.",
+        "author": "William James"
+      },
+      {
+        "id": 25,
+        "text": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky"
+      },
+      {
+        "id": 26,
+        "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 27,
+        "text": "Success is not in what you have, but who you are.",
+        "author": "Bo Bennett"
+      },
+      {
+        "id": 28,
+        "text": "In order to succeed, we must first believe that we can.",
+        "author": "Nikos Kazantzakis"
+      },
+      {
+        "id": 29,
+        "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 30,
+        "text": "The only way to achieve the impossible is to believe it is possible.",
+        "author": "Charles Kingsleigh"
+      },
+      {
+        "id": 31,
+        "text": "It's not whether you get knocked down, it's whether you get up.",
+        "author": "Vince Lombardi"
+      },
+      {
+        "id": 32,
+        "text": "Success is not just about making money. It's about making a difference.",
+        "author": "Unknown"
+      },
+      {
+        "id": 33,
+        "text": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+        "author": "Roy T. Bennett"
+      },
+      {
+        "id": 34,
+        "text": "Every morning brings new potential, but only if you take the first step.",
+        "author": "Unknown"
+      },
+      {
+        "id": 35,
+        "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+        "author": "Jordan Belfort"
+      },
+      {
+        "id": 36,
+        "text": "It always seems impossible until it's done.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "id": 37,
+        "text": "You can't use up your creativity. The more you use, the more you have.",
+        "author": "Maya Angelou"
+      },
+      {
+        "id": 38,
+        "text": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "id": 39,
+        "text": "If you want to achieve greatness stop asking for permission.",
+        "author": "Anonymous"
+      },
+      {
+        "id": 40,
+        "text": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon"
+      },
+      {
+        "id": 41,
+        "text": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "id": 42,
+        "text": "The only person you are destined to become is the person you decide to be.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 43,
+        "text": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "id": 44,
+        "text": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        "author": "Roy T. Bennett"
+      },
+      {
+        "id": 45,
+        "text": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+        "author": "William Butler Yeats"
+      },
+      {
+        "id": 46,
+        "text": "Don't be afraid to give up the good to go for the great.",
+        "author": "John D. Rockefeller"
+      },
+      {
+        "id": 47,
+        "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 48,
+        "text": "Do not wait for leaders; do it alone, person to person.",
+        "author": "Mother Teresa"
+      },
+      {
+        "id": 49,
+        "text": "It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.",
+        "author": "Ann Landers"
+      },
+      {
+        "id": 50,
+        "text": "The only way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "id": 50,
+        "text": "Don't be afraid to give up the good to go for the great.",
+        "author": "John D. Rockefeller"
+      },
+      {
+        "id": 51,
+        "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 52,
+        "text": "Do not wait for leaders; do it alone, person to person.",
+        "author": "Mother Teresa"
+      },
+      {
+        "id": 53,
+        "text": "It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.",
+        "author": "Ann Landers"
+      },
+      {
+        "id": 54,
+        "text": "The only way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "id": 55,
+        "text": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "id": 56,
+        "text": "If you want to achieve greatness stop asking for permission.",
+        "author": "Anonymous"
+      },
+      {
+        "id": 57,
+        "text": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon"
+      },
+      {
+        "id": 58,
+        "text": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "id": 59,
+        "text": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "id": 60,
+        "text": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        "author": "Roy T. Bennett"
+      },
+      {
+        "id": 61,
+        "text": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+        "author": "William Butler Yeats"
+      },
+      {
+        "id": 62,
+        "text": "You can't use up your creativity. The more you use, the more you have.",
+        "author": "Maya Angelou"
+      },
+      {
+        "id": 63,
+        "text": "It always seems impossible until it's done.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "id": 64,
+        "text": "Every morning brings new potential, but only if you take the first step.",
+        "author": "Unknown"
+      },
+      {
+        "id": 65,
+        "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+        "author": "Jordan Belfort"
+      },
+      {
+        "id": 66,
+        "text": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky"
+      },
+      {
+        "id": 67,
+        "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 68,
+        "text": "Success is not in what you have, but who you are.",
+        "author": "Bo Bennett"
+      },
+      {
+        "id": 69,
+        "text": "In order to succeed, we must first believe that we can.",
+        "author": "Nikos Kazantzakis"
+      },
+      {
+        "id": 70,
+        "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 71,
+        "text": "The only way to achieve the impossible is to believe it is possible.",
+        "author": "Charles Kingsleigh"
+      },
+      {
+        "id": 72,
+        "text": "It's not whether you get knocked down, it's whether you get up.",
+        "author": "Vince Lombardi"
+      },
+      {
+        "id": 73,
+        "text": "Success is not just about making money. It's about making a difference.",
+        "author": "Unknown"
+      },
+      {
+        "id": 74,
+        "text": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+        "author": "Roy T. Bennett"
+      },
+      {
+        "id": 75,
+        "text": "Every morning brings new potential, but only if you take the first step.",
+        "author": "Unknown"
+      },
+      {
+        "id": 76,
+        "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+        "author": "Jordan Belfort"
+      },
+      {
+        "id": 77,
+        "text": "You can't use up your creativity. The more you use, the more you have.",
+        "author": "Maya Angelou"
+      },
+      {
+        "id": 78,
+        "text": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "id": 79,
+        "text": "If you want to achieve greatness stop asking for permission.",
+        "author": "Anonymous"
+      },
+      {
+        "id": 80,
+        "text": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon"
+      },
+      {
+        "id": 81,
+        "text": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "id": 82,
+        "text": "The only person you are destined to become is the person you decide to be.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 83,
+        "text": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "id": 84,
+        "text": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        "author": "Roy T. Bennett"
+      },
+      {
+        "id": 85,
+        "text": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+        "author": "William Butler Yeats"
+      },
+      {
+        "id": 86,
+        "text": "Don't be afraid to give up the good to go for the great.",
+        "author": "John D. Rockefeller"
+      },
+      {
+        "id": 87,
+        "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 88,
+        "text": "Do not wait for leaders; do it alone, person to person.",
+        "author": "Mother Teresa"
+      },
+      {
+        "id": 89,
+        "text": "It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.",
+        "author": "Ann Landers"
+      },
+      {
+        "id": 90,
+        "text": "The only way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      }
+    ]
+  }
+  
